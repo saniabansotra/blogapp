@@ -3,8 +3,8 @@ title: C Programming Tutorial
 description: This is JavaScript tutorial and this is for learning JavaScript
 slug: c-programming-tutorial
 date: 02/03/2025
-author: Harry
-image: https://images.pexels.com/photos/5952651/pexels-photo-5952651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+author: Sania
+image: image1.webp
 ---
 
 Welcome to this comprehensive C programming tutorial! Whether you're a complete beginner or looking to deepen your understanding of C, this guide will take you through the fundamentals and introduce advanced concepts as you progress.

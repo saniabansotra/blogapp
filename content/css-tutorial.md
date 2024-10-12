@@ -3,8 +3,8 @@ title: CSS Tutorial
 description: This is JavaScript tutorial and this is for learning JavaScript
 slug: css-tutorial
 date: 11/02/2025
-author: Harry
-image: https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+author: Sania
+image: image4.webp
 ---
 
 # CSS Tutorial: A Comprehensive Guide
